@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217988135514",
+    "project_id": "uaspam-de9ab",
+    "storage_bucket": "uaspam-de9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217988135514:android:bdc7ca7134f76152247663",
+        "android_client_info": {
+          "package_name": "com.example.uaspam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217988135514-a9mms9g31j2sbkktfjf7ltabgajmopra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jZ7ejWxZAlmHvCb1aGlqT6Psv61_bm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217988135514-a9mms9g31j2sbkktfjf7ltabgajmopra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

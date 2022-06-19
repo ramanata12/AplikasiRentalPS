@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NgePlayStation</string>
+    <string name="tWelcome">NgePlayStation</string>
+    <string name="tNama">Nama</string>
+    <string name="tPass">Password</string>
+    <string name="tEmail">Email</string>
+    <string name="tRepas">Re-Password</string>
+    <string name="Sign">SIGN-IN</string>
+    <string name="rgNama">Masukan Nama</string>
+    <string name="rgEmail">Masukan Email</string>
+    <string name="rgPass">Masukan Password</string>
+    <string name="rgRepas">Masukan Password</string>
+    <string name="Register">Register</string>
+    <string name="welcom">WELCOME!!</string>
+    <string name="tdTask">Masukan Task</string>
+    <string name="Jenis">Jenis Task</string>
+    <string name="tdJenis">Masukan Jenis Task</string>
+    <string name="Time">Time Task</string>
+    <string name="tdTime">Masukan Lama Task</string>
+    <string name="out">Logout</string>
+</resources>
